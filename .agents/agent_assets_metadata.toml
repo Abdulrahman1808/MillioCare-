@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "rdoVgfSlz0gQqot84R_9u"
+uri = "file://artifacts/milliocare/public/images/hero.png"
+type = "image"
+title = "cinematic teal healthcare background"
+
+[[generated]]
+id = "qrcOcz4C2HEQiGyxMRak5"
+uri = "file://artifacts/milliocare/public/images/chairman.png"
+type = "image"
+title = "chairman portrait"
