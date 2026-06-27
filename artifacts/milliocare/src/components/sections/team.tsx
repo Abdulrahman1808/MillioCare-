@@ -3,23 +3,17 @@ import yasserImg from "@assets/image_1782520274401.png";
 import hamedNasrImg from "@assets/image_1782520363231.png";
 import mohamedAtiaImg from "@assets/image_1782520360802.png";
 import hossamSafwatImg from "@assets/image_1782520358298.png";
-import mohamedMeqledImg from "@assets/image_1782520356141.png";
 import haythamFekryImg from "@assets/image_1782520354184.png";
 import nohaHendyImg from "@assets/image_1782520328591.png";
 import hanaaElMasryImg from "@assets/image_1782520321541.png";
 import jolianaNadyImg from "@assets/image_1782520319882.png";
-import mohamedDarwishImg from "@assets/image_1782520318432.png";
+import mohamedDarwishImg from "@assets/image_1782520356141.png";
 
 const team = [
   {
     name: "Dr. Yasser El-Ghazzawy",
     role: "Founder and Chairman of the Board",
     img: yasserImg,
-  },
-  {
-    name: "Dr. Hamed Nasr",
-    role: "Vice Chairman of the Board for Public Relations",
-    img: hamedNasrImg,
   },
   {
     name: "Dr. Mohamed Atia",
@@ -32,9 +26,9 @@ const team = [
     img: hossamSafwatImg,
   },
   {
-    name: "Con. Mohamed Meqled",
-    role: "Vice Chairman of the Board and Legal Counsel",
-    img: mohamedMeqledImg,
+    name: "Dr. Hamed Nasr",
+    role: "Vice Chairman of the Board for Public Relations",
+    img: hamedNasrImg,
   },
   {
     name: "Haytham Fekry",
