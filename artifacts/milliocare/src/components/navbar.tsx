@@ -20,7 +20,7 @@ export default function Navbar() {
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       transition={{ duration: 0.8, ease: "easeOut" }}
-      className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-white/5"
+      className="fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-200 shadow-sm"
     >
       <div className="container mx-auto px-4 md:px-6 h-20 flex items-center justify-between">
         <a href="#home" className="flex items-center">
@@ -37,7 +37,7 @@ export default function Navbar() {
             <a
               key={link.name}
               href={link.href}
-              className="text-sm font-medium text-muted-foreground hover:text-white transition-colors"
+              className="text-sm font-medium text-gray-600 hover:text-[#0F6466] transition-colors"
             >
               {link.name}
             </a>
