@@ -37,9 +37,9 @@ const team = [
     img: mohamedMeqledImg,
   },
   {
-    name: "Haytham Fekry",
-    role: "Head of Sales for the Cairo Capital Region",
-    img: haythamFekryImg,
+    name: "Hanaa El-Masry",
+    role: "Administrative and Medical Director",
+    img: hanaaElMasryImg,
   },
   {
     name: "Noha Hendy",
@@ -47,9 +47,9 @@ const team = [
     img: nohaHendyImg,
   },
   {
-    name: "Hanaa El-Masry",
-    role: "Administrative and Medical Director",
-    img: hanaaElMasryImg,
+    name: "Haytham Fekry",
+    role: "Head of Sales for the Cairo Capital Region",
+    img: haythamFekryImg,
   },
   {
     name: "Joliana Nady",
