@@ -5,9 +5,10 @@ import About from "@/components/sections/about";
 import Chairman from "@/components/sections/chairman";
 import VisionMission from "@/components/sections/vision-mission";
 import Goals from "@/components/sections/goals";
+import Team from "@/components/sections/team";
+import Inspired from "@/components/sections/inspired";
 import Journey from "@/components/sections/journey";
 import Services from "@/components/sections/services";
-import Team from "@/components/sections/team";
 import Cards from "@/components/sections/cards";
 import Quote from "@/components/sections/quote";
 import Contact from "@/components/sections/contact";
@@ -26,9 +27,10 @@ export default function Home() {
         <Chairman />
         <VisionMission />
         <Goals />
+        <Team />
+        <Inspired />
         <Journey />
         <Services />
-        <Team />
         <Cards />
         <Quote />
         <Contact />
