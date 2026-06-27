@@ -1,14 +1,14 @@
 import { motion } from "framer-motion";
-import hamedNasrImg from "@assets/image_1782520274401.png";
-import haythamFekryImg from "@assets/image_1782520318432.png";
-import mohamedAtiaImg from "@assets/image_1782520363231.png";
-import hossamSafwatImg from "@assets/image_1782520354184.png";
-import mohamedMeqledImg from "@assets/image_1782520360802.png";
+import yasserImg from "@assets/image_1782520274401.png";
+import hamedNasrImg from "@assets/image_1782520363231.png";
+import mohamedAtiaImg from "@assets/image_1782520360802.png";
+import hossamSafwatImg from "@assets/image_1782520358298.png";
+import mohamedMeqledImg from "@assets/image_1782520356141.png";
+import haythamFekryImg from "@assets/image_1782520354184.png";
 import nohaHendyImg from "@assets/image_1782520328591.png";
 import hanaaElMasryImg from "@assets/image_1782520321541.png";
 import jolianaNadyImg from "@assets/image_1782520319882.png";
-import mohamedDarwishImg from "@assets/image_1782520356141.png";
-import yasserImg from "@assets/image_1782520358298.png";
+import mohamedDarwishImg from "@assets/image_1782520318432.png";
 
 const team = [
   {
@@ -18,28 +18,28 @@ const team = [
   },
   {
     name: "Dr. Hamed Nasr",
-    role: "Vice Chairman for Marketing and Sales",
+    role: "Vice Chairman of the Board for Public Relations",
     img: hamedNasrImg,
   },
   {
-    name: "Haytham Fekry",
-    role: "Administrative and Medical Director",
-    img: haythamFekryImg,
-  },
-  {
     name: "Dr. Mohamed Atia",
-    role: "Vice Chairman for Public Relations",
+    role: "Vice Chairman of the Board for Marketing and Sales",
     img: mohamedAtiaImg,
   },
   {
     name: "Eng. Hossam Safwat",
-    role: "Vice Chairman for Development and IT",
+    role: "Vice Chairman of the Board for Development and Information Technology",
     img: hossamSafwatImg,
   },
   {
     name: "Con. Mohamed Meqled",
-    role: "Vice Chairman and Legal Counsel",
+    role: "Vice Chairman of the Board and Legal Counsel",
     img: mohamedMeqledImg,
+  },
+  {
+    name: "Haytham Fekry",
+    role: "Head of Sales for the Cairo Capital Region",
+    img: haythamFekryImg,
   },
   {
     name: "Noha Hendy",
@@ -48,7 +48,7 @@ const team = [
   },
   {
     name: "Hanaa El-Masry",
-    role: "Head of Sales for the Cairo Capital Region",
+    role: "Administrative and Medical Director",
     img: hanaaElMasryImg,
   },
   {
