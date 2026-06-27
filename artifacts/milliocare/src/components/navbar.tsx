@@ -22,8 +22,8 @@ export default function Navbar() {
       transition={{ duration: 0.8, ease: "easeOut" }}
       className="fixed top-0 left-0 right-0 z-50 bg-white border-b border-gray-200 shadow-sm"
     >
-      <div className="container mx-auto px-4 md:px-6 h-20 flex items-center justify-between">
-        <a href="#home" className="flex items-center">
+      <div className="container mx-auto px-4 md:px-6 h-20 flex items-center justify-center lg:justify-between">
+        <a href="#home" className="flex items-center lg:flex-none">
           <img
             src={logoImg}
             alt="MillioCare"
