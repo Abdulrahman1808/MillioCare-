@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Quote } from "lucide-react";
+import chairmanImg from "@assets/image_1782520358298.png";
 
 export default function Chairman() {
   return (
@@ -17,9 +18,9 @@ export default function Chairman() {
             >
               <div className="relative aspect-[3/4] rounded-2xl overflow-hidden">
                 <img 
-                  src="/images/chairman.png" 
+                  src={chairmanImg}
                   alt="Yasser El-Ghazzawy - Chairman" 
-                  className="w-full h-full object-cover grayscale-[0.2]"
+                  className="w-full h-full object-cover object-top grayscale-[0.1]"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent" />
                 <div className="absolute bottom-0 left-0 p-8">
