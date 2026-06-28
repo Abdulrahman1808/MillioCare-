@@ -1,6 +1,6 @@
 {
   "buildCommand": "pnpm run build:vercel",
-  "outputDirectory": "artifacts/milliocare/dist",
+  "outputDirectory": "dist",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
