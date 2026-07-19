@@ -6,8 +6,7 @@ import hamedNasrImg from "@assets/image_1782520363231.png";
 import mohamedMeqledImg from "@assets/image_1782520356141.png";
 import haythamFekryImg from "@assets/image_1782520354184.png";
 import nohaHendyImg from "@assets/image_1782520328591.png";
-import hanaaElMasryImg from "@assets/image_1782520321541.png";
-import jolianaNadyImg from "@assets/image_1782520319882.png";
+
 import mohamedDarwishImg from "@assets/image_1782520318432.png";
 
 const team = [
@@ -36,11 +35,7 @@ const team = [
     role: "Vice Chairman of the Board and Legal Counsel",
     img: mohamedMeqledImg,
   },
-  {
-    name: "Hanaa El-Masry",
-    role: "Administrative and Medical Director",
-    img: hanaaElMasryImg,
-  },
+
   {
     name: "Noha Hendy",
     role: "Sales Manager for the Delta Region",
@@ -51,11 +46,7 @@ const team = [
     role: "Head of Sales for the Cairo Capital Region",
     img: haythamFekryImg,
   },
-  {
-    name: "Joliana Nady",
-    role: "Human Resources Manager",
-    img: jolianaNadyImg,
-  },
+
   {
     name: "Mohamed Darwish",
     role: "Alexandria Branch Manager",
